@@ -22,8 +22,6 @@ public class Cliente {
     private String email;
     private int CP;
     private String Domicilio;
-ç
-
 
     @Override
     public boolean equals(Object object){
