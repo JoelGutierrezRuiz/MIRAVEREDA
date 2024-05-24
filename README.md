@@ -1,2 +1,0 @@
-# MIRAVEREDA
-proyecto final
